@@ -1,0 +1,15 @@
+C:\Users\Wall-e\Desktop\Teste AmCOM\Teste de C# da Ailos\Questao1\bin\Debug\net6.0\Questao1.exe
+C:\Users\Wall-e\Desktop\Teste AmCOM\Teste de C# da Ailos\Questao1\bin\Debug\net6.0\Questao1.deps.json
+C:\Users\Wall-e\Desktop\Teste AmCOM\Teste de C# da Ailos\Questao1\bin\Debug\net6.0\Questao1.runtimeconfig.json
+C:\Users\Wall-e\Desktop\Teste AmCOM\Teste de C# da Ailos\Questao1\bin\Debug\net6.0\Questao1.dll
+C:\Users\Wall-e\Desktop\Teste AmCOM\Teste de C# da Ailos\Questao1\bin\Debug\net6.0\Questao1.pdb
+C:\Users\Wall-e\Desktop\Teste AmCOM\Teste de C# da Ailos\Questao1\obj\Debug\net6.0\Questao1.csproj.AssemblyReference.cache
+C:\Users\Wall-e\Desktop\Teste AmCOM\Teste de C# da Ailos\Questao1\obj\Debug\net6.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wall-e\Desktop\Teste AmCOM\Teste de C# da Ailos\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfoInputs.cache
+C:\Users\Wall-e\Desktop\Teste AmCOM\Teste de C# da Ailos\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfo.cs
+C:\Users\Wall-e\Desktop\Teste AmCOM\Teste de C# da Ailos\Questao1\obj\Debug\net6.0\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\Wall-e\Desktop\Teste AmCOM\Teste de C# da Ailos\Questao1\obj\Debug\net6.0\Questao1.dll
+C:\Users\Wall-e\Desktop\Teste AmCOM\Teste de C# da Ailos\Questao1\obj\Debug\net6.0\refint\Questao1.dll
+C:\Users\Wall-e\Desktop\Teste AmCOM\Teste de C# da Ailos\Questao1\obj\Debug\net6.0\Questao1.pdb
+C:\Users\Wall-e\Desktop\Teste AmCOM\Teste de C# da Ailos\Questao1\obj\Debug\net6.0\Questao1.genruntimeconfig.cache
+C:\Users\Wall-e\Desktop\Teste AmCOM\Teste de C# da Ailos\Questao1\obj\Debug\net6.0\ref\Questao1.dll

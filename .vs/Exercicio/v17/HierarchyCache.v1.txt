@@ -1,0 +1,229 @@
+﻿++Solução 'Exercicio' ‎(3 de 3 projetos)
+i:{00000000-0000-0000-0000-000000000000}:Exercicio.sln
+++Questao3
+i:{00000000-0000-0000-0000-000000000000}:Questao3
+++Questões 3.docx
+i:{2bb7ee80-1bf0-49a3-bdb2-2e9d04439829}:C:\Users\Wall-e\Desktop\Teste AmCOM\Teste de C# da Ailos\Questao3\Questões 3.docx
+++Questao4
+i:{00000000-0000-0000-0000-000000000000}:Questao4
+++Questão 4.docx
+i:{d7c9b50d-678b-438f-8ccf-258f745db194}:C:\Users\Wall-e\Desktop\Teste AmCOM\Teste de C# da Ailos\Questao4\Questão 4.docx
+++Questao1
+i:{00000000-0000-0000-0000-000000000000}:Questao1
+++Dependências
+i:{24c20b4f-3d90-45c4-84f6-49cbb46dddb4}:>429
+i:{6fdf016f-9506-422a-b4ca-e9a401fddc34}:>430
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:>697
+++ContaBancaria.cs
+i:{24c20b4f-3d90-45c4-84f6-49cbb46dddb4}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao1\contabancaria.cs
+++Program.cs
+i:{24c20b4f-3d90-45c4-84f6-49cbb46dddb4}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao1\program.cs
+i:{6fdf016f-9506-422a-b4ca-e9a401fddc34}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao2\program.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\program.cs
+++Questão 1.docx
+i:{24c20b4f-3d90-45c4-84f6-49cbb46dddb4}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao1\questão 1.docx
+++Analisadores
+i:{24c20b4f-3d90-45c4-84f6-49cbb46dddb4}:analisadores
+i:{6fdf016f-9506-422a-b4ca-e9a401fddc34}:analisadores
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:analisadores
+++Estruturas
+i:{24c20b4f-3d90-45c4-84f6-49cbb46dddb4}:estruturas
+i:{6fdf016f-9506-422a-b4ca-e9a401fddc34}:estruturas
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:estruturas
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{24c20b4f-3d90-45c4-84f6-49cbb46dddb4}:c:\program files\dotnet\sdk\6.0.428\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{6fdf016f-9506-422a-b4ca-e9a401fddc34}:c:\program files\dotnet\sdk\6.0.428\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\program files\dotnet\sdk\6.0.428\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{24c20b4f-3d90-45c4-84f6-49cbb46dddb4}:c:\program files\dotnet\sdk\6.0.428\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{6fdf016f-9506-422a-b4ca-e9a401fddc34}:c:\program files\dotnet\sdk\6.0.428\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\program files\dotnet\sdk\6.0.428\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{24c20b4f-3d90-45c4-84f6-49cbb46dddb4}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.36\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{6fdf016f-9506-422a-b4ca-e9a401fddc34}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.36\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.36\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{24c20b4f-3d90-45c4-84f6-49cbb46dddb4}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao1\microsoft.netcore.app
+i:{6fdf016f-9506-422a-b4ca-e9a401fddc34}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao2\microsoft.netcore.app
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\microsoft.netcore.app
+++Questao2
+i:{00000000-0000-0000-0000-000000000000}:Questao2
+++ApiPartidasResponse.cs
+i:{6fdf016f-9506-422a-b4ca-e9a401fddc34}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao2\apipartidasresponse.cs
+++IServicoPartidas.cs
+i:{6fdf016f-9506-422a-b4ca-e9a401fddc34}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao2\iservicopartidas.cs
+++ParametrosApiPartidas.cs
+i:{6fdf016f-9506-422a-b4ca-e9a401fddc34}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao2\parametrosapipartidas.cs
+++Questão 2.docx
+i:{6fdf016f-9506-422a-b4ca-e9a401fddc34}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao2\questão 2.docx
+++ServicoPartidas.cs
+i:{6fdf016f-9506-422a-b4ca-e9a401fddc34}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao2\servicopartidas.cs
+++Pacotes
+i:{6fdf016f-9506-422a-b4ca-e9a401fddc34}:pacotes
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:pacotes
+++Newtonsoft.Json (13.0.1)
+i:{6fdf016f-9506-422a-b4ca-e9a401fddc34}:>713
+++Questao5
+i:{00000000-0000-0000-0000-000000000000}:Questao5
+++Connected Services 
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:>698
+++Properties
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\properties\
+++Application
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\application\
+++Commands
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\application\commands\
+++Requests
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\application\commands\requests\
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\application\queries\requests\
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\database\commandstore\requests\
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\database\querystore\requests\
+++MovimentacaoCommand.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\application\commands\requests\movimentacaocommand.cs
+++Responses
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\application\commands\responses\
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\application\queries\responses\
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\database\commandstore\responses\
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\database\querystore\responses\
+++Exceptions
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\application\exceptions\
+++Handlers
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\application\handlers\
+++MovimentacaoCommandHandler.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\application\handlers\movimentacaocommandhandler.cs
+++Queries
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\application\queries\
+++ObterSaldoQuery.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\application\queries\requests\obtersaldoquery.cs
+++ObterSaldoQueryHandler.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\application\queries\requests\obtersaldoqueryhandler.cs
+++ObterSaldoResponse.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\application\queries\responses\obtersaldoresponse.cs
+++Domain
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\domain\
+++Infrastructure
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\
+++Tests
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\tests\
+++MovimentacaoCommandHandlerTest.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\tests\movimentacaocommandhandlertest.cs
+++~$estão 5.docx
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\~$estão 5.docx
+++appsettings.Development.json
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\appsettings.development.json
+++appsettings.json
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\appsettings.json
+++database.sqlite
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\database.sqlite
+++Questão 5.docx
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\questão 5.docx
+++Nenhuma dependência de serviço descoberta
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:>699
+++launchSettings.json
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\properties\launchsettings.json
+++BusinessException.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\application\exceptions\businessexception.cs
+++Entities
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\domain\entities\
+++Enumerators
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\domain\enumerators\
+++Language
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\domain\language\
+++Database
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\database\
+++Repositories
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\repositories\
+++Services
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\services\
+++Sqlite
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\sqlite\
+++Microsoft.AspNetCore.Analyzers
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\program files\dotnet\sdk\6.0.428\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.36\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.36\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\program files\dotnet\sdk\6.0.428\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\program files\dotnet\sdk\6.0.428\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\program files\dotnet\sdk\6.0.428\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.Extensions.Logging.Generators
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.36\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\program files\dotnet\sdk\6.0.428\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++xunit.analyzers
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\.nuget\packages\xunit.analyzers\1.0.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++xunit.analyzers.fixes
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\.nuget\packages\xunit.analyzers\1.0.0\analyzers\dotnet\cs\xunit.analyzers.fixes.dll
+++Microsoft.AspNetCore.App
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\microsoft.aspnetcore.app
+++coverlet.collector (3.1.2)
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:>744
+++coverlet.msbuild (3.1.2)
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:>733
+++Dapper (2.0.35)
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:>737
+++FluentAssertions (6.7.0)
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:>736
+++MediatR (11.0.0)
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:>739
+++MediatR.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:>741
+++Microsoft.Data.Sqlite (3.1.6)
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:>740
+++Microsoft.NET.Test.Sdk (17.4.0-preview-20220726-02)
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:>734
+++Moq (4.18.2)
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:>743
+++NSubstitute (4.4.0)
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:>732
+++Swashbuckle.AspNetCore (6.2.3)
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:>735
+++System.ComponentModel.TypeConverter (4.3.0)
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:>745
+++xunit (2.4.2)
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:>738
+++xunit.runner.visualstudio (2.4.5)
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:>742
+++ContaCorrente.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\domain\entities\contacorrente.cs
+++MovimentacaoRequest.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\domain\entities\movimentacaorequest.cs
+++BusinessTypeErrorEnum.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\domain\enumerators\businesstypeerrorenum.cs
+++TipoMovimentoEnum.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\domain\enumerators\tipomovimentoenum.cs
+++CommandStore
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\database\commandstore\
+++QueryStore
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\database\querystore\
+++Interfaces
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\repositories\interfaces\
+++ContaCorrenteDapperRepository.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\repositories\contacorrentedapperrepository.cs
+++IdempotenciaRepository.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\repositories\idempotenciarepository.cs
+++MovimentoDapperRepository.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\repositories\movimentodapperrepository.cs
+++Controllers
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\services\controllers\
+++ContaCorrenteService.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\services\contacorrenteservice.cs
+++IContaCorrenteService.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\services\icontacorrenteservice.cs
+++DatabaseBootstrap.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\sqlite\databasebootstrap.cs
+++DatabaseConfig.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\sqlite\databaseconfig.cs
+++IDatabaseBootstrap.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\sqlite\idatabasebootstrap.cs
+++IContaCorrenteDapperRepository.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\repositories\interfaces\icontacorrentedapperrepository.cs
+++IIdempotenciaRepository.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\repositories\interfaces\iidempotenciarepository.cs
+++IMovimentoDapperRepository.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\repositories\interfaces\imovimentodapperrepository.cs
+++ContaCorrenteController.cs
+i:{7b665ab7-6063-4ea5-a851-e41dbbe01242}:c:\users\wall-e\desktop\teste amcom\teste de c# da ailos\questao5\infrastructure\services\controllers\contacorrentecontroller.cs
